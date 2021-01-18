@@ -6,13 +6,15 @@
 
 When you're watching a video in Spotify, inject the code in your browser's console.
 
-- 1. Open your browser's console.
-- - Chrome on Mac: `Option + ⌘ + J`
-- - Chrome on Windows: `Shift + CTRL + J`
-- - Firefox on Mac: `Option + ⌘ + K`
-- - Firefox on Windows: `Cmd + Shift + J`
-- - Safari: Activate the option "Show develop menu in menu bar" in your Safari Preferences panel. Then `Option + ⌘ + C`
-- 2. Paste the code in the browser's console and press Enter.
+1. Open your browser's console.
+
+- Chrome on Mac: `Option + ⌘ + J`
+- Chrome on Windows: `Shift + CTRL + J`
+- Firefox on Mac: `Option + ⌘ + K`
+- Firefox on Windows: `Cmd + Shift + J`
+- Safari: Activate the option "Show develop menu in menu bar" in your Safari Preferences panel. Then `Option + ⌘ + C`
+
+2. Paste the code in the browser's console and press Enter.
 
 ```js
 let container = document.querySelector(".VideoPlayer--landscape");
